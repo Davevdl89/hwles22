@@ -1,0 +1,51 @@
+.navigationbar {
+  background-color: #0ab6fa;
+}
+
+.navigationbar a {
+  font-weight: bold;
+}
+
+.text-adjust {
+ text-align: justify;
+}
+
+.footer {
+    background-color: #0ab6fa;
+    color: #000000;
+    font-weight: bold;
+    min-height: 200px;
+    max-height: 200px;
+    text-align: center;
+}
+
+input[type=text], textarea, input[type=email] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+
+}
+
+input[type=submit] {
+  background-color: #0ab6fa;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type=submit]:hover {
+  background-color: #black;
+}
+
+.achtergrond{
+  border-radius: 7px;
+  background-color: #eeeee4;
+  padding: 25px;
+  margin-top: 20px;
+}
